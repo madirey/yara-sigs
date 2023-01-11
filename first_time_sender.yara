@@ -1,4 +1,5 @@
 rule FirstTimeSender {
+  condition:
    type.inbound
    and any(attachments,
       .file_extension in $archive_extensions and

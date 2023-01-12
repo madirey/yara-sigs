@@ -1,4 +1,0 @@
-rule TestingAgain {
-   condition:
-     false
-}

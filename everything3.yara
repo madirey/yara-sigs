@@ -1,4 +1,0 @@
-rule Testing {
-   condition:
-     true
-}

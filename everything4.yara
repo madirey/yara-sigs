@@ -1,0 +1,4 @@
+rule TestingAgain {
+   condition:
+     false
+}

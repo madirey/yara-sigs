@@ -1,1 +1,3 @@
 # yara-sigs
+
+test

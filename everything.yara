@@ -3,7 +3,7 @@ rule MatchEverything
     meta:
         author = "madi"
         description = "my test rule"
-        test = "madi rules"
+        test = "madi"
 
     condition:
         true
